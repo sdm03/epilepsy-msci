@@ -10,7 +10,6 @@ import matplotlib.animation as animation
 from scipy import sparse
 import random
 import time
-from numba import jit
 import pickle
 from itertools import combinations
 from logbin230119 import logbin
